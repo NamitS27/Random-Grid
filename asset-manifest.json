@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Random-Grid/static/css/main.c704a764.chunk.css",
-    "main.js": "/Random-Grid/static/js/main.0162ffad.chunk.js",
-    "main.js.map": "/Random-Grid/static/js/main.0162ffad.chunk.js.map",
+    "main.css": "/Random-Grid/static/css/main.49e3a2c7.chunk.css",
+    "main.js": "/Random-Grid/static/js/main.06836b88.chunk.js",
+    "main.js.map": "/Random-Grid/static/js/main.06836b88.chunk.js.map",
     "runtime-main.js": "/Random-Grid/static/js/runtime-main.4d48d70c.js",
     "runtime-main.js.map": "/Random-Grid/static/js/runtime-main.4d48d70c.js.map",
-    "static/js/2.f8ca13fd.chunk.js": "/Random-Grid/static/js/2.f8ca13fd.chunk.js",
-    "static/js/2.f8ca13fd.chunk.js.map": "/Random-Grid/static/js/2.f8ca13fd.chunk.js.map",
+    "static/js/2.6311ee5b.chunk.js": "/Random-Grid/static/js/2.6311ee5b.chunk.js",
+    "static/js/2.6311ee5b.chunk.js.map": "/Random-Grid/static/js/2.6311ee5b.chunk.js.map",
     "index.html": "/Random-Grid/index.html",
-    "static/css/main.c704a764.chunk.css.map": "/Random-Grid/static/css/main.c704a764.chunk.css.map",
-    "static/js/2.f8ca13fd.chunk.js.LICENSE.txt": "/Random-Grid/static/js/2.f8ca13fd.chunk.js.LICENSE.txt"
+    "static/css/main.49e3a2c7.chunk.css.map": "/Random-Grid/static/css/main.49e3a2c7.chunk.css.map",
+    "static/js/2.6311ee5b.chunk.js.LICENSE.txt": "/Random-Grid/static/js/2.6311ee5b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4d48d70c.js",
-    "static/js/2.f8ca13fd.chunk.js",
-    "static/css/main.c704a764.chunk.css",
-    "static/js/main.0162ffad.chunk.js"
+    "static/js/2.6311ee5b.chunk.js",
+    "static/css/main.49e3a2c7.chunk.css",
+    "static/js/main.06836b88.chunk.js"
   ]
 }
